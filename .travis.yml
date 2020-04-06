@@ -19,6 +19,7 @@ branches:
   only:
     - master
     - /support\/.*/
+    - feature/repo-4901-4904_super-pom
 
 env:
   global:
